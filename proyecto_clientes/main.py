@@ -199,7 +199,7 @@ if __name__ == "__main__":
         print("\nPrograma interrumpido por el usuario.")
 
 # =====================================================================
-# SCRIPT DE PRUEBA Y NAVEGACIÓN (Reemplaza el final de tu archivo)
+# SCRIPT DE PRUEBA Y NAVEGACIÓN ()
 # =====================================================================
 
 if __name__ == "__main__":
