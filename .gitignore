@@ -1,3 +1,6 @@
-__pycache__/
+# Ignora todas las carpetas __pycache__ y archivos .pyc del proyecto
+**/__pycache__/
 *.pyc
-data/
+
+# Ignora carpetas de datos específicas (ajusta la ruta según lo que quieras ignorar)
+**/data/
